@@ -1,0 +1,10 @@
+// Remove line - 6, 9
+
+
+
+function padRow() {
+  const test = "Testing";
+  return test;
+}
+const call = padRow();
+console.log(call);
