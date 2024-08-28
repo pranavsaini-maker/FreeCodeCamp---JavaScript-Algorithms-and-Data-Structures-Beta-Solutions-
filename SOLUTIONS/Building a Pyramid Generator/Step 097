@@ -1,0 +1,7 @@
+// Remove line - 14, 17
+
+
+
+while (rows.length < count) {
+  rows.push(padRow(rows.length + 1, count));
+}
