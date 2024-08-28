@@ -1,0 +1,9 @@
+// Remove line - 6, 7
+
+
+
+function padRow() {
+
+}
+const call = padRow();
+console.log(call);
