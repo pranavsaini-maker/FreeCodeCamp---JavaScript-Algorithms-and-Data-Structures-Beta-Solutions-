@@ -16,7 +16,6 @@ img {
   display: block;
 }
 
-/* Project styling */
 
 body {
   height: 100vh;
@@ -178,7 +177,6 @@ th {
   padding: 8px;
 }
 
-/* Special styling for Pokémon types */
 
 .normal {
   background-color: #b7b7aa;
