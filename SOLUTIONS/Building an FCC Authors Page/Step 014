@@ -1,0 +1,3 @@
+//clear console.log(data); (from line 11)
+
+    authorDataArr = data;
