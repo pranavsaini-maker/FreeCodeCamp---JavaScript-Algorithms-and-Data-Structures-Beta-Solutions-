@@ -1,0 +1,4 @@
+//remove line 15;
+
+
+    authorContainer.innerHTML = `<p class="error-msg">There was an error loading the authors</p>`;
