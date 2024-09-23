@@ -1,0 +1,4 @@
+    authorContainer.innerHTML += `
+    <div id="${index}" class="user-card">
+    </div>
+    `;
