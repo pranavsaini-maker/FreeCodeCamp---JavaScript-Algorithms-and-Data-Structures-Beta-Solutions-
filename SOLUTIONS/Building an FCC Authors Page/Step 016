@@ -1,0 +1,5 @@
+// remove line 12
+
+
+    authorDataArr = data;
+    displayAuthors(authorDataArr.slice(startingIndex, endingIndex))
