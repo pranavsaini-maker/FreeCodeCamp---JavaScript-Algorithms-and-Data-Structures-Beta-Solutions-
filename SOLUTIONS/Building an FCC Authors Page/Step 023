@@ -1,0 +1,1 @@
+loadMoreBtn.addEventListener("click", fetchMoreAuthors)
