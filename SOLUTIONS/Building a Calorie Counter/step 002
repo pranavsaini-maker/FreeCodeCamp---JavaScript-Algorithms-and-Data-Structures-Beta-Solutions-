@@ -1,0 +1,4 @@
+<form id="calorie-counter">
+          <label for="budget">Budget</label>
+          <input type="text" id="budget" name="budget"> 
+        </form>
