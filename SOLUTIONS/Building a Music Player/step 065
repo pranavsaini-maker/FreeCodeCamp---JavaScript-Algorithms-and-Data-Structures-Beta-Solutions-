@@ -1,0 +1,3 @@
+if (songToHighlight) {
+    songToHighlight.setAttribute("aria-current", "true");
+  }
