@@ -1,0 +1,7 @@
+{
+  id: 2,
+title: "Still Learning",
+artist: "Quincy Larson",
+duration: "3:51",
+src: "https://cdn.freecodecamp.org/curriculum/js-music-player/still-learning.mp3",
+}
