@@ -1,0 +1,4 @@
+return `
+      <li id="song-${song.id}" class="playlist-song">
+      </li>
+    `;
