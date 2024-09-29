@@ -1,0 +1,3 @@
+let playlistSongs = document.getElementById('playlist-songs');
+let playButton = document.getElementById('play');
+let pauseButton = document.getElementById('pause');
