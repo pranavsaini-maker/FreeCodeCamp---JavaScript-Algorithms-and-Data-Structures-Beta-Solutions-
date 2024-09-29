@@ -1,0 +1,1 @@
+shuffleButton.addEventListener("click", shuffle)
