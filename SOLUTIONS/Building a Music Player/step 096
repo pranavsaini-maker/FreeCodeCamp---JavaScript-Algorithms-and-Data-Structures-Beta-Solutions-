@@ -1,0 +1,4 @@
+audio.addEventListener("ended", () => {
+  const currentSongIndex = getCurrentSongIndex();
+  const nextSongExists = userData.songs.length - 1 > currentSongIndex;
+});
