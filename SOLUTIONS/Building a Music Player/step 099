@@ -1,0 +1,4 @@
+pauseSong();
+setPlayerDisplay()
+highlightCurrentSong()
+setPlayButtonAccessibleText()
