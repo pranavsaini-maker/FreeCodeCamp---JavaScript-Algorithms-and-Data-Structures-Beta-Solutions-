@@ -1,0 +1,3 @@
+let nextButton = document.getElementById('next');
+let previousButton = document.getElementById('previous');
+let shuffleButton = document.getElementById('shuffle');
