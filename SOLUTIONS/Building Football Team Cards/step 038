@@ -1,0 +1,4 @@
+switch (e.target.value) {
+     case "nickname":
+  
+  }
