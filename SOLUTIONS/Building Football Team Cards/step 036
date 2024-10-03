@@ -1,0 +1,3 @@
+// remove 'console.log'
+
+playerCards.innerHTML = ""
