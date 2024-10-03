@@ -1,0 +1,3 @@
+case "midfielder":
+setPlayerCards(players.filter(player => player.position === "midfielder"));
+    break;
