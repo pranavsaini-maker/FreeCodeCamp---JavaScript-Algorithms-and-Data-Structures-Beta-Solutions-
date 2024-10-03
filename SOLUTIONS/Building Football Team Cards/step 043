@@ -1,0 +1,3 @@
+case "defender":
+setPlayerCards(players.filter(player => player.position === "defender"));
+    break;
