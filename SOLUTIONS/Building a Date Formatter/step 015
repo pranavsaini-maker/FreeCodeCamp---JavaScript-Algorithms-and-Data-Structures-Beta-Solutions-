@@ -1,0 +1,3 @@
+dateOptionsSelectElement.addEventListener("change", () => {
+
+});
