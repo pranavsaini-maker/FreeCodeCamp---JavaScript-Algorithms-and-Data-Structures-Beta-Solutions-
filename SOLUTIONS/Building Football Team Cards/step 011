@@ -1,0 +1,7 @@
+{
+  name: "Sergio Batista",
+position: "midfielder",
+number: 2,
+isCaptain: false,
+nickname: null 
+}
